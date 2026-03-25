@@ -9,7 +9,7 @@ This project is a prototype redesign of the Webpack documentation website aimed 
 - Improved readability and navigation  
 
 ## 📸 Preview
-![Preview](screenshot.png)
+![Preview](screenshot.png.jpeg)
 
 ## 🎯 Goal
 The goal of this project is to make Webpack documentation more intuitive and beginner-friendly, helping developers understand concepts more easily.
